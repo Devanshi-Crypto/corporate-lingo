@@ -1,0 +1,6 @@
+sklearn
+pandas 
+matplotlib 
+seaborn 
+scikit-learn 
+wordcloud
