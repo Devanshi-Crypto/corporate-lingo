@@ -1,0 +1,24 @@
+# Context Examples
+1. In the meeting, Sarah said we need to "move the needle" on our sales figures.
+2. The CEO wants us to "think outside the box" for our new product launch.
+3. John mentioned we should "circle back" on the budget issue next week.
+
+# Non-Jargon Examples
+1. We need to increase our sales by 10% this quarter.
+2. Let's schedule a follow-up meeting to discuss the project timeline.
+3. The team should focus on improving customer satisfaction scores.
+
+# Jargon Examples
+1. We need to leverage our synergies to achieve a paradigm shift.
+2. Let's touch base offline to ideate some blue-sky thinking.
+3. We're going to right-size the department to optimize our bandwidth.
+
+# Ambiguous Examples
+1. The project is in the pipeline.
+2. We need to table this discussion.
+3. Let's take this conversation offline.
+
+# Mixed Examples
+1. We need to pivot our strategy to move the needle on our KPIs.
+2. Let's circle back after we've had some time to marinate on these pain points.
+3. We should leverage our core competencies to disrupt the market landscape.
